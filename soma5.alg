@@ -1,15 +1,15 @@
 algoritmo "soma5"
-// Função : dado uma senquencia de 5 nuemros inteiros. Calcule a soma de todos os numeros da sequencia
+// FunÃ§Ã£o : dado uma senquencia de 5 numeros inteiros. Calcule a soma de todos os numeros da sequencia
 // Autor : HLM
 // Data : 02/03/2016
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
    valor, soma  : inteiro
 
    
 
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
       soma <- 0
       escreval("Digite o valor 1: ")
       leia (valor)
@@ -27,7 +27,7 @@ inicio
       leia (valor)
       soma <- soma + valor
       
-      escreva("O resultado da soma é ",soma)
+      escreva("O resultado da soma Ã© ",soma)
       
       
       
